@@ -1,0 +1,2 @@
+Prefix plugins/ExtractSSU/example
+Plugin ExtractSSU inputfile parameters.txt outputfile OneProkaryoticGenome_16SrRNA.ffn

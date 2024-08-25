@@ -1,0 +1,3 @@
+genomefile	OneProkaryoticGenome.fasta
+fileextension	fasta
+pathtoreference	/biorg/data/TAX4FUN2/
